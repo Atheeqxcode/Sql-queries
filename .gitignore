@@ -1,0 +1,34 @@
+# Temporary files
+*.tmp
+*.temp
+/tmp/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Log files
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+
+# Solution files (students should work independently)
+# Uncomment these if you want to hide solutions
+# solutions/
+
+# Personal notes
+notes.txt
+personal-notes/
